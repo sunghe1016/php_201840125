@@ -17,6 +17,3 @@ layout: default
 
 * [1교시](04/01)
 
-<ul>
-<li>1교시</li>
-</ul>
