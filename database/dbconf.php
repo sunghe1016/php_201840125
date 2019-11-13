@@ -7,6 +7,7 @@ $passwd = "multi1004";
 $database = "php";
 
 
+
 return [
 "host"=>$host, 
 "user"=>$user, 
